@@ -165,7 +165,7 @@ I am particularly interested in systems where **models, data, infrastructure, an
 ## Competitive Programming
 
 * **Codeforces:** Expert — Max Rating **1636**
-* **200+** DSA / competitive-programming problems solved across Codeforces and LeetCode.
+* **450+** DSA / competitive-programming problems solved across Codeforces and LeetCode.
 * Strong focus on algorithms, data structures, problem solving, and implementation in C++.
 
 <a href="https://codeforces.com/profile/nightwizard3062">Codeforces</a> • <a href="https://leetcode.com/atlasrk25/">LeetCode</a>
